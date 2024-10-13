@@ -1,0 +1,10 @@
+# ignore node modules
+node_modules 
+src
+html/index.html
+package-lock.json
+package.json 
+pnpm-lock.yaml 
+postcss.config.cjs
+tailwind.config.js 
+vite.config.js
